@@ -31,7 +31,7 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who leads the Milton HackClub (which she founded) and loves working on and hearing about cool projects. She rarely checks social media, so
               {` `}
-              <a href={`dinaelhanan@gmail.com`}>
+              <a href={`mailto:dinaelhanan@gmail.com`}>
                 here's her email.
               </a>
             </p>
