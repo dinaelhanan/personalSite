@@ -3,8 +3,7 @@
  
  TODO:
  - erase this
- - make a home page with resume stuff, that also will link to blog*/
- import React from "react"
+ - make a home page with resume stuff, that also will link to blog*/import React from "react"
 import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
