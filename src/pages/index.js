@@ -28,6 +28,7 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
+      //TODO make a toolbar (look up list horizontal)
       //TODO add site stuff from figa and do 
       //it on global.css :)
       // note: use intro to stylingin gatsby tutorial
