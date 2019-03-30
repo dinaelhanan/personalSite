@@ -1,9 +1,7 @@
-/*copied everything that was here to blog.js,
- which can be found at https://localhost:8000/blog
- 
- TODO:
- - erase this
- - make a home page with resume stuff, that also will link to blog*/import React from "react"
+/*kodus to this codepen for the highlighted style:
+https://codepen.io/carlitocenteno/pen/myxgod
+*/
+import React from "react"
 import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -30,34 +28,10 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
-   
-             
-      <Layout location={this.props.location} title={siteTitle}>
-        <Button href="/">home</Button>
-        <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
-        <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none`, color:`green` }} to={node.fields.slug}>
-                  >{title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-            </div>
-          )
-        })}
-      </Layout>
+      //TODO add site stuff from figa and do 
+      //it on global.css :)
+      // note: use intro to stylingin gatsby tutorial
+      <h1>hello world</h1>
     )
   }
 }
