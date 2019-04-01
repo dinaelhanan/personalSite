@@ -3,24 +3,8 @@ https://codepen.io/carlitocenteno/pen/myxgod
 */
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-import styled from "styled-components"
-
-const Button = styled.button`
-  display: inline-block;
-  color: green;
-  font-size: 1em;
-  margin: 1em;
-  padding: 0.25em 1em;
-  border: 2px solid green;
-  border-radius: 3px;
-  display: block;
-`;
-
-
+import Logo from "../components/logo.js"
+import Header from  "../components/header.js"
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
@@ -28,11 +12,15 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
+
       //TODO make a toolbar (look up list horizontal)
       //TODO add site stuff from figa and do 
       //it on global.css :)
       // note: use intro to stylingin gatsby tutorial
-      <h1>hello world</h1>
+      <div>
+      <Header />
+     <Logo />
+     </div>
     )
   }
 }
