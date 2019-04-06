@@ -3,6 +3,7 @@
 https://codepen.io/carlitocenteno/pen/myxgod
 */
 import React from "react"
+import Bio2 from "../components/bio2.js"
 class About extends React.Component {
   
   render() {
