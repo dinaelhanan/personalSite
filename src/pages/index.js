@@ -24,6 +24,8 @@ class BlogIndex extends React.Component {
         <br />
         <br />
         <br />
+        <br />
+        <br />
      <Logo />
      <br />
         <br />
@@ -31,7 +33,6 @@ class BlogIndex extends React.Component {
         <br />
         <br />
         <br />
-        <About />
      </div>
     )
   }
