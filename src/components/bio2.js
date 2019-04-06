@@ -7,7 +7,7 @@ import { rhythm } from "../utils/typography"
 function Bio() {
   return (
     <StaticQuery
-      query={bioQuery}
+      query={bioQuery2}
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
