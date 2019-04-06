@@ -13,10 +13,7 @@ class BlogIndex extends React.Component {
 
     return (
 
-      //TODO make a toolbar (look up list horizontal)
-      //TODO add site stuff from figa and do 
-      //it on global.css :)
-      // note: use intro to stylingin gatsby tutorial
+      //TODO just add links to about and blog and make about a seperate page. Keep it simple stupid
       <div>
         <br />
         <br />
