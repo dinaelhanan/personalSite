@@ -26,6 +26,11 @@ li {
 font-family: 'nightmare_codehackregular';
 	color: black;
 }
+.header {
+    text-align: center;
+font-family: 'nightmare_codehackregular';
+	color: black;
+}
 .bio-text {
     text-align:center;
 }
