@@ -17,9 +17,6 @@ class About extends React.Component {
       <div>
      <h1 style={{fontFamily: 'Verdana',textAlign: 'center', color: 'green'}}>>about me</h1>
      <br />
-     <br />
-      <br />
-     
       <div
       style={{
         width: 250,
