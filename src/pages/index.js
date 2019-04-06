@@ -1,16 +1,10 @@
-/*kodus to this codepen for the highlighted style:
-https://codepen.io/carlitocenteno/pen/myxgod
-*/
+
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Logo from "../components/logo.js"
-import About from "../components/about.js"
+import Header from  "../components/header.js"
 class BlogIndex extends React.Component {
   render() {
-    const { data } = this.props
-    const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
-
     return (
 
       //TODO just add links to about and blog and make about a seperate page. Keep it simple stupid
@@ -24,6 +18,7 @@ class BlogIndex extends React.Component {
         <br />
         <br />
      <Logo />
+     <Header />
      <br />
         <br />
         <br />

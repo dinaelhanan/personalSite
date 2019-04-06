@@ -4,20 +4,6 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
-import styled from "styled-components"
-
-const Button = styled.button`
-  display: inline-block;
-  color: green;
-  font-size: 1em;
-  margin: 1em;
-  padding: 0.25em 1em;
-  border: 2px solid green;
-  border-radius: 3px;
-  display: block;
-`;
-
-
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
@@ -28,7 +14,6 @@ class BlogIndex extends React.Component {
    
              
       <Layout location={this.props.location} title={siteTitle}>
-        <Button href="/">home</Button>
         <SEO
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
