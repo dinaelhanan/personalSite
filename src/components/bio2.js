@@ -42,8 +42,8 @@ function Bio() {
   )
 }
 
-const bioQuery = graphql`
-  query BioQuery {
+const bioQuery2 = graphql`
+  query BioQuery2 {
     
     site {
       siteMetadata {
