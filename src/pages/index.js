@@ -4,7 +4,6 @@ https://codepen.io/carlitocenteno/pen/myxgod
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Logo from "../components/logo.js"
-import Header from  "../components/header.js"
 import About from "../components/about.js"
 class BlogIndex extends React.Component {
   render() {
