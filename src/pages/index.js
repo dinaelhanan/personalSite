@@ -5,6 +5,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Logo from "../components/logo.js"
 import Header from  "../components/header.js"
+import About from ".../components/about.js"
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
@@ -18,8 +19,20 @@ class BlogIndex extends React.Component {
       //it on global.css :)
       // note: use intro to stylingin gatsby tutorial
       <div>
-      <Header />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
      <Logo />
+     <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <About />
      </div>
     )
   }

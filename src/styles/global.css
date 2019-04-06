@@ -1,4 +1,14 @@
+li {
+    display:inline;
+    padding: 10px 40px;
+
+    font-family: Roboto Mono;
+}
 .header {
-    display: flex;
-    justify-content:  center;
+    text-align: center;
+
+}
+.about-title {
+    font-family: Roboto Mono;
+    text-align: center;
 }
