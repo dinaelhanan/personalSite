@@ -19,11 +19,11 @@ li {
     padding: 10px 40px;
     font-family: 'nightmare_codehackregular';
 	font-size: 2.5 em;
-	font-color: black;
 }
-.header {
+.header a{
     text-align: center;
 font-family: 'nightmare_codehackregular';
+	color: black;
 }
 .bio-text {
     text-align:center;
