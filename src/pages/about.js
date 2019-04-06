@@ -19,8 +19,6 @@ class About extends React.Component {
      <br />
      <br />
       <br />
-      <br />
-      <br />
      
       <div
       style={{
