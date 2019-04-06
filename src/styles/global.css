@@ -2,25 +2,36 @@
 /*kodus to this codepen for the social buttons :)
 https://codepen.io/vpdemo/pen/dPdymj
 */
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
+
+@font-face {
+    font-family: 'nightmare_codehackregular';
+    src: url('nightmare_codehack-webfont.woff2') format('woff2'),
+         url('nightmare_codehack-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 li {
     display:inline;
     padding: 10px 40px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'nightmare_codehackregular';
 }
 .header {
     text-align: center;
-font-family: 'Montserrat', sans-serif;
+font-family: 'nightmare_codehackregular';
 }
 .bio-text {
     text-align:center;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'nightmare_codehackregular';
 }
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 
 a, a:hover {
 	text-decoration: none;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'nightmare_codehackregular';
 }
 
 .socialbtns, .socialbtns ul, .socialbtns li {
