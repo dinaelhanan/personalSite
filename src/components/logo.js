@@ -7,7 +7,7 @@ import logo from "../../static/logo.png"
 class Logo extends React.Component {
   render() {
     return (
-        <h1 class="logo"  >digitaldina</h1>
+        <p class="logo"  >digitaldina</p>
      
     )
   }
