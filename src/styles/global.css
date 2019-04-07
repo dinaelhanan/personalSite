@@ -3,7 +3,11 @@
 https://codepen.io/vpdemo/pen/dPdymj
 */
 
-
+.logo {
+	text-align: center;
+    font-family: 'nightmare_codehackregular';
+	color: darkgray;
+}
 
 
 @font-face {
