@@ -6,10 +6,10 @@ class Header extends React.Component {
     return (
         <div class="header">
       <ul>
-                <i><li><Link style={{ boxShadow: `none` }} to="/blog">
+                <i><li><Link style={{ boxShadow: `none`,fontSize: '3em' }} to="/blog">
                   >the blog
                 </Link></li></i>
-                <i><li><Link style={{ boxShadow: `none` }} to="/about">
+                <i><li><Link style={{ boxShadow: `none`,fontSize: '3em'  }} to="/about">
                  >more on me
                 </Link></li></i>
      </ul>
