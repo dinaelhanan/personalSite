@@ -7,7 +7,7 @@ import logo from "../../static/logo.png"
 class Logo extends React.Component {
   render() {
     return (
-        <p style={{textAlign: "center"}} ><img src={logo} /></p>
+        <h1 class="logo"  >digitaldina</h1>
      
     )
   }
