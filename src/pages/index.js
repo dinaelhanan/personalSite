@@ -13,10 +13,6 @@ class BlogIndex extends React.Component {
         <br />
         <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
      <Logo />
      <Header />
      <br />
