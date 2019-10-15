@@ -24,7 +24,7 @@ class About extends React.Component {
       }}
     >            
       <img src={require('../../static/me.jpeg')} style={{borderRadius:`50%`}}/><p>
-              Written by <strong>{author}</strong> who leads the Milton Hack Club (which she founded) and loves working on and hearing about cool projects. She <em>tries</em> not to checks social media, so
+              Written by <strong>{author}</strong> who leads the Milton Hack Club (which she founded) and loves working on and hearing about cool projects. She <em>tries</em> not to check social media, so
               {` `}
               <a href={`mailto:dinaelhanan@gmail.com`}>
                 here's her email
