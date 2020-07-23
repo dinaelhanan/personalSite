@@ -1,6 +1,6 @@
-# DigitalDina Describes: **The Letter** dun dun dunnnn
+# DigitalDina Describes: ***The Letter*** (dun dun dunnnn)
 <br>
-`## This is a message I sent on the politics channel of a slack for high school students interested in tech that i think captures my immediate thoughts on _the letter._ This is a direct copy and paste, therefore it's imperfectly formatted and not very well thought out but I wanted to share because it's an honest, immediate reaction. As is most of what DigitalDina Does :D
+` ## This is a message I sent on the politics channel of a slack for high school students interested in tech that i think captures my immediate thoughts on _the letter._ This is a direct copy and paste, therefore it's imperfectly formatted and not very well thought out but I wanted to share because it's an honest, immediate reaction. As is most of what DigitalDina Does :D
 <br>
 very cool discussion on free discourse - based on the current events w the harper's letter:
 https://youtu.be/uXDPPkuRimQ
