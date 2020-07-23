@@ -1,10 +1,11 @@
 # DigitalDina Describes: ***The Letter*** (dun dun dunnnn)
 <br>
-## This is a message I sent on the politics channel of a slack for high school students interested in tech that i think captures my immediate thoughts on _the letter._ This is a direct copy and paste, therefore it's imperfectly formatted and not very well thought out but I wanted to share because it's an honest, immediate reaction. As is most of what DigitalDina Does :D
+<h3> This is a message I sent on the politics channel of a slack for high school students interested in tech that i think captures my immediate thoughts on *the letter.* This is a direct copy and paste, therefore it's imperfectly formatted and not very well thought out but I wanted to share because it's an honest, immediate reaction. As is most of what DigitalDina Does :D</h3>
+<br>
 <br>
 <code>very cool discussion on free discourse - based on the current events w the harper's letter:
 https://youtu.be/uXDPPkuRimQ
-
+<br>
 it's very very true that it's correct and natural to have limits and constraints of debate, especially when it comes to powerful and influential people. however to create an environment where those who don't have power but want to challenge common narratives feels like they cannot is dangerous.
 There is definitely a way to allow people to have the freedom to push against common narratives without endangering or attacking people that have little power and are being affected by the discussion. currently people r talking absolute free speech v. self-censorship which is not the way to go. there is another way to have debates while not infringing on the rights and comforts of other people, however attacking anyone who is called out on twitter for something just to save face as a company is not what companies should be doing.
 These companies do not need HR "diversity" leads. they need common sense. if you as an editor cannot tell whether something someone did is racist and should result in a termination, but you go to twitter to figure that out - you not seeing it as racist should indicate that you are just as ignorant as the person you're firing...
