@@ -10,7 +10,7 @@
 
 ### Awesome stuff that ***should*** go without saying but that I forget about sometimes:
 
-- **Prepare a slideshow** or outline doc that you can share. Make it super simple though. [Here’s examples](https://www.notion.so/mini-AMA-Max-Stoiber-86d8e296ef1d47eeab2455f8657b2e73) of (what I mean.)[https://docs.google.com/presentation/d/17NNwABNel13nqclkjgogvjG7ir7VO25L3p_Jj5aAcLI/edit?usp=sharing] 
+- **Prepare a slideshow** or outline doc that you can share. Make it super simple though. [Here’s examples](https://www.notion.so/mini-AMA-Max-Stoiber-86d8e296ef1d47eeab2455f8657b2e73) of [what I mean.](https://docs.google.com/presentation/d/17NNwABNel13nqclkjgogvjG7ir7VO25L3p_Jj5aAcLI/edit?usp=sharing)
 
     - **Having a written guide** is great because you can put some extra goodies and details in there for the curious or technically inclined. Or people who aren’t the best at following your specific pace.
     
