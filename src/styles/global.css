@@ -23,8 +23,10 @@ li {
     display:inline;
     padding: 10px 40px;
 	text-align: center;
-    font-family: 'nightmare_codehackregular';
 	font-size: 100%;
+}
+h3 {
+	    font-family: 'nightmare_codehackregular';
 }
 .header a{
     text-align: center;
