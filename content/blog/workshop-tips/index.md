@@ -1,6 +1,8 @@
-# Running Workshops That Don't Feel like *Work*
 
-
+---
+title: Running Workshops That Don't Feel like *Work*
+date: "2020-01-05"
+---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After running dozens (I literally mean dozens) of workshops that show people of all different skill levels, ages and backgrounds how to make cool technical projects, I’ve gathered some good advice and tips that have helped more and more of my workshops really land with participants. And so I thought I’d put them up on here in case anybody reading this puts them to good use :) Thank you to everyone I experimented on and those who gave me great advice. More importantly, thank you to those who allow me to continue experimenting and learning from them, and to those I will be experimenting on in the future. You’re all fantastic guinea pigs. (Note: As I go through more and more workshops, I’ll keep adding things here :)
 	
