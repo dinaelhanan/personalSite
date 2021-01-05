@@ -1,5 +1,5 @@
 ---
-title: DigitalDina Describes: ***The Letter*** (dun dun dunnnn)
+title: DigitalDina Describes: The Letter (dun dun dunnnn)
 date: "2020-01-05"
 ---
 
