@@ -28,7 +28,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___title], order: DESC }) {
       edges {
         node {
           excerpt
