@@ -1,5 +1,3 @@
-
-
 ---
 title: Running Workshops That Don't Feel like Work
 date: "2020-01-05"
