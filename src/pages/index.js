@@ -7,7 +7,6 @@ class BlogIndex extends React.Component {
   render() {
     return (
 
-      //TODO just add links to about and blog and make about a seperate page. Keep it simple stupid
       <div>
         <br />
         <br />
