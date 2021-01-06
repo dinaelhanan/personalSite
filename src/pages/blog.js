@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Logo from "../components/logo.js"
+import BlogLogo from "../components/bloglogo.js"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 class BlogIndex extends React.Component {
@@ -13,7 +14,7 @@ class BlogIndex extends React.Component {
 
     return (
    
-                   <a href="http://dinaelhanan.com"> <p class="logo"  >digital<br>dina</p></a>
+                   <BlogLogo/>
       <Layout location={this.props.location}>
       
         <SEO
