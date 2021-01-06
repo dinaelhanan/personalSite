@@ -4,7 +4,7 @@ date: "2020-01-05"
 ---
 
 <br>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After running dozens (I literally mean dozens) of workshops that show people of all different skill levels, ages and backgrounds how to make cool technical projects, I’ve gathered some good advice and tips that have helped more and more of my workshops really land with participants. And so I thought I’d put them up on here in case anybody reading this puts them to good use :) Thank you to everyone I experimented on and those who gave me great advice. More importantly, thank you to those who allow me to continue experimenting and learning from them, and to those I will be experimenting on in the future. You’re all fantastic guinea pigs. (Note: As I go through more and more workshops, I’ll keep adding things here :)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After running dozens (I literally mean dozens) of workshops that show people of all different skill levels, ages and backgrounds how to make cool technical projects, I’ve gathered some good advice and tips that have helped more and more of my workshops really land with participants. And so I thought I’d put them up on here in case anybody reading this puts them to good use :) Thank you to everyone I experimented on and those who gave me great advice. More importantly, thank you to those who allow me to continue experimenting and learning from them, and to those I will be experimenting on in the future. You’re all fantastic guinea pigs. (Note: As I go through more and more workshops, I’ll keep adding things here :)
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When things get awkward or silent in any conversation, I’m horrible at small talk. But I’m great at sharing stuff I learn! This is because I really like doing the things the hard way by starting from scratch instead of based on advice - just ask my poor Mom. 
 ![You as the star of the conversation when things get awkward.](youRaStar.png)
@@ -24,4 +24,4 @@ date: "2020-01-05"
 - People can tell when you’re faking it, and it’s very uncomfortable to watch. If you’re not high energy but are walking into a high energy presentation, change the tone. Make the focus on the questions/ interactions from audience in a comfy chat format. It’ll be much better as a chat that 100% matches the presentation’s energy than a half-effort high energy presentation.
     
 - *Participants need to make something by the end.* There has to be something they can keep, show, and see after the workshop. This is why when doing a workshop on a topic like ReactJS, I also make the workshop maybe about a resume site. Or learning javascript basics with p5.js and artwork.
-</p>
+
