@@ -13,7 +13,7 @@ class BlogIndex extends React.Component {
 
     return (
    
-            <Logo /> 
+                   <a href="http://dinaelhanan.com"> <p class="logo"  >digital<br>dina</p></a>
       <Layout location={this.props.location}>
       
         <SEO
