@@ -2,7 +2,9 @@
 /*kodus to this codepen for the social buttons :)
 https://codepen.io/vpdemo/pen/dPdymj
 */
-
+html {
+	background-color: #fff1d0;
+}
 .logo {
 	text-align: center;
     font-family: 'nightmare_codehackregular';
